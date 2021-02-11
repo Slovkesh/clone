@@ -1,14 +1,14 @@
-{
-  "article":{
+[
+  {
     "title":"first title",
     "time":"0000",
     "email":"luckyshamra@ssag.com",
     "body":"this is my first content"
   },
-  "article1":{
+  {
     "title":"second title",
     "time":"0000",
     "email":"luckyshamra@isobar.com",
     "body":"this is my second content"
-  },
-}
+  }
+]
